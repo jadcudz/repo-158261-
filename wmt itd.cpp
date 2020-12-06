@@ -1,6 +1,20 @@
  
 #include <iostream>
 
+/** 
+   *  Moja dokumentacja
+   *    - Zdarzenia z myszy:
+   *         -# ruch myszą
+   *         -# kliknięcie myszą\n
+   *            Więcej informacji o kliknięciu myszą.
+   *         -# Podwójne kliknięcie myszą
+   *    - Zdarzenia z klawiatury:
+   *         1. Przyciśnięcie klawisza DOWN
+   *         2. Przyciśnięcie klawisza UP
+   *
+   *  Więcej tekstu tutaj.
+*/
+
 /**
 * \defgroup test1 TEST (Jakaś nazwa grupy)
 * \(

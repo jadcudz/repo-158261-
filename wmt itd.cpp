@@ -1,7 +1,7 @@
  
 #include <iostream>
-
-/** 
+Wcześniejsze
+/ ** 
    *  Moja dokumentacja
    *    - Zdarzenia z myszy:
    *         -# ruch myszą
@@ -39,3 +39,4 @@
   int main(int argc , char * argv[]) {
 	return 0;
    }
+ Wcześniejsze
